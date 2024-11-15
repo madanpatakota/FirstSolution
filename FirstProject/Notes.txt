@@ -1,0 +1,45 @@
+﻿
+
+
+Angular .netCore
+
+
+5 mins
+
+
+
+upgraded version of the .net
+
+.netCore
+   APIS  (Asp.netCore Technology)
+
+
+
+  
+
+
+
+
+1. We are using asp.net core for creating the APIs
+
+
+
+
+
+kathik asks the siva that i need the  http://localhost:5171/Students/GetStudents
+endpoint becuase Madan told me that in the browser needs to dispaly student realted details
+
+
+Gives :
+[
+  "Siva",
+  "Karthik",
+  "Keerthi"
+]
+
+
+Karthik
+
+needs the endpoint
+
+

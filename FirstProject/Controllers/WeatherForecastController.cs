@@ -5,10 +5,12 @@ namespace FirstProject.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //http://localhost:4600/Students/GetTestData
     public class StudentsController : ControllerBase
     {
         [HttpGet]
-        [Route("GetStudents")]
+        [Route("GetStudentsAll")]
+        //http://localhost:4600/Students/GetStudentsAll
         public List<string> GetStudents()
         {
             return new List<string>()
